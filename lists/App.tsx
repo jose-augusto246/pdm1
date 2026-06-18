@@ -31,7 +31,6 @@ export default function App() {
               Catálogo completo com {motodata.length} motocicletas agrupadas
             </Text>
           </View>
-
           {/* Lista Seccionada */}
           <SectionList
             sections={sections}
